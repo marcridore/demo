@@ -1,13 +1,5 @@
 {
     "status": "true",
-    "message": "Data fetched successfully!",
-    "data": [
-        {
-            "id": "1",
-            "name": "Roger Federer",
-            "country": "Switzerland",
-            "city": "Basel"
-        }
-       
-    ]
+    "message": "Data fetched successfully!"
+    
 }
